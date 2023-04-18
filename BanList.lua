@@ -13,5 +13,4 @@ local Ban = {
         [3000934539] = {Motivo = "Ameaçando"},
 	[1795253070] = {Motivo = "Flw"},-- Derrubando a EB e dando rank all
 }
-
 return Ban 
