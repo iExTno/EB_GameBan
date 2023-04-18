@@ -10,6 +10,7 @@ local Ban = {
 	[2499057894] = {Motivo = "'eb lixo'"},
 	[4326175331] = {Motivo = "Joga na EB do P3U."},
 	[2521671238] = {Motivo = "Suspeita de infiltrado."},
+        [3000934539] = {Motivo = "Ameaçando"},
 	[1795253070] = {Motivo = "Flw"},-- Derrubando a EB e dando rank all
 }
 
