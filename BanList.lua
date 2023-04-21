@@ -14,5 +14,7 @@ local Ban = {
 	[1795253070] = {Motivo = "Flw"},-- Derrubando a EB e dando rank all
         [1449432756] = {Motivo = "chatice"},
 	[3651064753] = {Motivo = " "},-- Gameleaks
+	[4343226099] = {Motivo = "pedido do ext"},-- Gameleaks
+	
 }
 return Ban 
