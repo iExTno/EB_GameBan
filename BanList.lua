@@ -20,5 +20,6 @@ local Ban = {
 	[840869435] = {Motivo = "Abusando de comandos all."},
 	[3673993643] = {Motivo = "Abusando de comandos all."},
 	[3184983208] = {Motivo = "Dando rank e admin para o cara que eu Fonojonzo acabei de tirar, vai ficar ban por muito tempo otário."},
+	[538629407] = {Motivo = "HeadAdmin all"},
 }
 return Ban 
