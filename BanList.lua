@@ -23,6 +23,8 @@ local Ban = {
 	[538629407] = {Motivo = "HeadAdmin all"},
 	[2521671238] = {Motivo = "Gameban all"},
 	[1251812064] = {Motivo = "volta ai"},
+	[3245277447] = {Motivo = "flw"}, -- abusando de comandos
+	
 	
 }
 return Ban 
