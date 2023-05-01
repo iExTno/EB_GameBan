@@ -23,6 +23,7 @@ local Ban = {
 	[2521671238] = {Motivo = "Gameban all"},
 	[1251812064] = {Motivo = "volta ai"},
 	[3245277447] = {Motivo = "flw"}, -- abusando de comandos
+	[4285090732] = {Motivo = "quero ver vocÊ abusar e quitar agora"}, -- abusando de comandos
 	
 	
 }
